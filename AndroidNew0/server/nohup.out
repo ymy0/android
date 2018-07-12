@@ -1,0 +1,17 @@
+服务器运行在http://119.23.109.182:3000
+/root/AndroidNew0/server/server.js:109
+    if(source.air1.key==1) elecData.data[01][elecCount].energy++;
+                                            ^
+
+TypeError: Cannot read property '0' of undefined
+    at /root/AndroidNew0/server/server.js:109:45
+    at Request._callback (/root/AndroidNew0/server/JS/getAllState.js:56:9)
+    at Request.self.callback (/root/AndroidNew0/server/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:126:13)
+    at Request.emit (events.js:214:7)
+    at Request.<anonymous> (/root/AndroidNew0/server/node_modules/request/request.js:1157:10)
+    at emitOne (events.js:116:13)
+    at Request.emit (events.js:211:7)
+    at IncomingMessage.<anonymous> (/root/AndroidNew0/server/node_modules/request/request.js:1079:12)
+    at Object.onceWrapper (events.js:313:30)
+服务器运行在http://119.23.109.182:3000

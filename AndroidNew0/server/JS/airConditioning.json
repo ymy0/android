@@ -1,0 +1,38 @@
+{
+    "air1" : {
+       "name" : "小丑鱼家客厅的空调",
+       "id" : "01",
+       "key":"0",
+       "recommandTemperature": "26",
+       "temperature" : "26",
+       "speed": "0",
+       "mode":"0"
+    },
+    "air2" : {
+       "name" : "小丑鱼家厨房的空调",
+       "id" : "02",
+       "key":"0",
+       "temperature" : "26",
+       "recommandTemperature": "26",
+       "speed": "0",
+       "mode":"0"
+    },
+    "air3" : {
+       "name" : "小丑鱼家卧室的空调",
+       "id" : "03",
+       "key":"0",
+       "temperature" : "26",
+       "recommandTemperature": "26",
+       "speed": "0",
+       "mode":"0"
+    },
+    "air4":{
+        "name" : "小丑鱼家花园的空调",
+        "id" : "04",
+        "key":"0",
+        "temperature" : "26",
+        "recommandTemperature": "26",
+        "speed": "0",
+        "mode":"0"
+    }
+ }
